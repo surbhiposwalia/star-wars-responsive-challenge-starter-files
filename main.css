@@ -8,15 +8,15 @@ main .row {
 }
 
 .box {
-    height: 250px;
+    height: 300px;
     text-align: center;
-    width: 100%
+    width: 100%;
 }
 
 nav {
     background-color: orange;
-    padding: 8px;
-    font-size: 25px;
+    padding: 15px;
+    font-size: 30px;
 }
 
 .textbox {
